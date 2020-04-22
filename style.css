@@ -53,3 +53,10 @@ body{
 	background-color: #2FBE70;
 	border: none;
 }
+.Congratulation{
+	margin: 100px 100px;
+	background-color: #F6F5FA;;
+	padding: 60px 60px;
+	display:none;
+
+}
